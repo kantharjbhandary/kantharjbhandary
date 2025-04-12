@@ -20,7 +20,7 @@
 - 📚 Currently diving deep into **Java Fullstack**
 - 🌏 Based in **Bangalore, India**
 - 🚀 Love exploring **new tech** and building cool projects
-- 🧠 Always in **learning mode**
+
 
 ---
 
@@ -72,8 +72,8 @@
 ## 🎉 Fun Facts
 
 - 🔧 Love tinkering with code and automating tasks
-- 🌍 Travel enthusiast + 📸 amateur photo editor
-- ☕ Fuelled by chai & late-night debugging!
+- 🌍 Travel enthusiast + 📸 editor
+- ☕ Fuelled by chai 
 
 ---
 
