@@ -61,7 +61,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:kantharajbhandary@example.com">
+  <a href="mailto:kantharajbhandary@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
