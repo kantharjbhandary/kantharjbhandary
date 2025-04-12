@@ -23,29 +23,6 @@
 
 
 
-<!-- Projects Section -->
-## 📁 Featured Projects
-
-### 🛠️ [Project 1](https://github.com/your-username/project1) - A full-stack web application using React, Node.js, and MongoDB
-- 🎯 **Key Features**: Authentication, REST APIs, User Dashboard
-- 🌟 **Technologies Used**: React, Node.js, Express, MongoDB
-- 📖 [Read the Documentation](https://github.com/your-username/project1)
-
-### 🧠 [Project 2](https://github.com/your-username/project2) - A machine learning model for image classification
-- 🎯 **Key Features**: CNN model, data preprocessing, accuracy evaluation
-- 🌟 **Technologies Used**: Python, TensorFlow, Keras, OpenCV
-- 📖 [Read the Documentation](https://github.com/your-username/project2)
-
-### 🚀 [Project 3](https://github.com/your-username/project3) - A personal blog platform built with Flask
-- 🎯 **Key Features**: Blog creation, comment section, user profiles
-- 🌟 **Technologies Used**: Python, Flask, SQLite, Bootstrap
-- 📖 [Read the Documentation](https://github.com/your-username/project3)
-
-<!-- Achievements Section -->
-## 🏆 Achievements & Milestones
-- 🌟 Contributed to **10+ open-source projects**.
-- 🎓 Completed the **Deep Learning Specialization** by Andrew Ng on Coursera.
-- 🚀 Built a **real-time chat application** with Node.js and Socket.io.
 
 <!-- Connect with Me Section -->
 ## 🤝 Let's Connect
@@ -59,7 +36,6 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
- 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
