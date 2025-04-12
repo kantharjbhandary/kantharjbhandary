@@ -14,8 +14,8 @@
 <!-- GitHub Stats Section -->
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kantharjbhandary-&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kantharjbhandary&layout=compact&theme=radical)
 
 <!-- Streak Graph Section -->
 ## 🔥 My GitHub Streak
