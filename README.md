@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#ff6347">Kantharaj</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Java+Fullstack+Learner;Tech+Enthusiast;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Java+Fullstack+Learner;Welcome+to+my+GitHub!" />
 </p>
 
 
