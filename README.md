@@ -53,6 +53,13 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+<!-- Connect Section -->
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:kantharajbhandary@example.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
+</p>
 
 ---
 
