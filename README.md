@@ -45,7 +45,7 @@
 <!-- Fun Section (Optional) -->
 ## 🎉 Fun Fact
 - I'm a **tech enthusiast** who loves experimenting with new technologies and tools.
-- **Hobbies**: editing 📸, Gaming 🎮, and Traveling 🌍.
+- **Hobbies**: editing 📸, Traveling 🌍.
 
 <!-- Footer Section -->
 <p align="center">
