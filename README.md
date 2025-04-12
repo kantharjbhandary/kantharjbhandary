@@ -1,53 +1,72 @@
 <!-- Header Section -->
-<h1 align="center">Hello, I'm Kantharaj 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#ff6347">Kantharaj</span> 👋</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Passionate-blue" alt="Developer Badge" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Java+Fullstack+Learner;Tech+Enthusiast;Welcome+to+my+GitHub!&center=true&width=500&height=45">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Passionate-blue" />
+  <img src="https://img.shields.io/badge/Location-Bangalore-green" />
+  <img src="https://img.shields.io/badge/Focus-Java%20Fullstack-orange" />
+</p>
+
+---
 
 <!-- About Me Section -->
-## 👨‍💻 About Me
-- 🚀 **Full-stack Developer**
-- 📚 Currently learning **java fullstack** 
-- 📍 Located in **Bangalore**.
+## 🙋‍♂️ About Me
 
+- 💻 I'm a passionate **Full-stack Developer**  
+- 📚 Currently learning **Java Fullstack**  
+- 🌍 Based in **Bangalore, India**  
+- 🔭 Always exploring **new technologies** and improving my skills  
+
+---
 
 <!-- GitHub Stats Section -->
-## 📈 My GitHub Stats
+## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kantharjbhandary-&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kantharjbhandary&layout=compact&theme=radical)
-
-<!-- Streak Graph Section -->
-## 🔥 My GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
-
-
-
-<!-- Connect with Me Section -->
-## 🤝 Let's Connect
-- 🌐 [My Personal Website](https://your-website.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📧 [Email me](mailto:your-email@example.com)
-
-<!-- Skills Section -->
-## 🛠️ Tools & Technologies
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kantharjbhandary&show_icons=true&count_private=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantharjbhandary&layout=compact&theme=radical" height="180"/>
 </p>
 
-<!-- Fun Section (Optional) -->
-## 🎉 Fun Fact
-- I'm a **tech enthusiast** who loves experimenting with new technologies and tools.
-- **Hobbies**: editing 📸, Traveling 🌍.
+---
 
-<!-- Footer Section -->
+<!-- GitHub Streak -->
+## 🔥 GitHub Streak
+
 <p align="center">
-  <i>Let's build amazing things together! 🚀</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kantharjbhandary&theme=radical" />
+</p>
+
+---
+
+<!-- Skills Section -->
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+
+<!-- Fun Facts -->
+## 🎉 Fun Facts
+
+- 🔧 I love tinkering with new tools and tech  
+- 🌍 Travel lover and 📸 photo editor  
+
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
