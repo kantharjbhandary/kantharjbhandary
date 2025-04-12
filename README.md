@@ -7,7 +7,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💼-Fullstack_Developer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/📍-Bangalore-green?style=flat-square" />
   <img src="https://img.shields.io/badge/🎯-Java_Fullstack-orange?style=flat-square" />
 </p>
