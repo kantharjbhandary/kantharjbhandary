@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#ff6347">Kantharaj</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Java+Fullstack+Learner;Tech+Enthusiast;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&Java+Fullstack+Learner;Tech+Enthusiast;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
@@ -63,12 +63,6 @@
 <p align="center">
   <a href="mailto:kantharajbhandary@example.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
