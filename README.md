@@ -37,12 +37,15 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 </p>
 
 <!-- Fun Section (Optional) -->
 ## 🎉 Fun Fact
 - I'm a **tech enthusiast** who loves experimenting with new technologies and tools.
-- **Hobbies**: Photography 📸, Gaming 🎮, and Traveling 🌍.
+- **Hobbies**: editing 📸, Gaming 🎮, and Traveling 🌍.
 
 <!-- Footer Section -->
 <p align="center">
