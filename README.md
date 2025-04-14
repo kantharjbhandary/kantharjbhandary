@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Java+Fullstack+Learner;Welcome+to+my+GitHub!" />
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Bangalore-green?style=flat-square" />
   <img src="https://img.shields.io/badge/🎯-Java_Fullstack-orange?style=flat-square" />
@@ -20,7 +19,6 @@
 - 📚 Currently diving deep into **Java Fullstack**
 - 🌏 Based in **Bangalore, India**
 - 🚀 Love exploring **new tech** and building cool projects
-
 
 ---
 
@@ -38,7 +36,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kantharjbhandary&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=kantharjbhandary&theme=tokyonight" />
 </p>
 
 ---
@@ -71,9 +69,9 @@
 <!-- Fun Facts -->
 ## 🎉 Fun Facts
 
-- 🔧 Love tinkering with code and automating tasks
-- 🌍 Travel enthusiast + 📸 editor
-- ☕ Fuelled by chai 
+- 🔧 Love tinkering with code and automating tasks  
+- 🌍 Travel enthusiast + 📸 editor  
+- ☕ Fuelled by chai  
 
 ---
 
