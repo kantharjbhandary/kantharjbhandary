@@ -32,12 +32,12 @@
 
 ---
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kantharjbhandary&theme=tokyonight" />
-</p>
+</p>-->
 
 ---
 
